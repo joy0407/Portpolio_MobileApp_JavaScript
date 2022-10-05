@@ -18,11 +18,17 @@ https://github.com/joy0407/Newdeal-Project-Server
 제가 담당해서 작업한 소스코드들은 다음과 같은 위치에서 확인하실 수 있습니다.
 
 Project_Client/front1/src/components/Map.vue
+
 Project_Client/front1/src/components/Weather.vue
 
+
 Project_Server/index.js
+
 Project_Server/pythonJS.js
+
 Project_Server/functionJS.js
 
+
 Project_Crawler/index.js
+
 Project_Crawler/crawler.js
